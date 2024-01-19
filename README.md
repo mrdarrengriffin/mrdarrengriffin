@@ -1,8 +1,7 @@
 ### Hey there, I'm Darren 👋
 ##### Interested to work with me or just want to get to know me better? Well, here's what you should know first!
 
-
-<img height="64px" src="https://github.com/mrdarrengriffin/mrdarrengriffin/assets/6920899/34a2e49f-0137-4ba4-b632-156991784c18">
+[<img height="64px" src="https://github.com/mrdarrengriffin/mrdarrengriffin/assets/6920899/34a2e49f-0137-4ba4-b632-156991784c18">](https://ukdevawards.co.uk/2024-shortlist/#:~:text=Darren%20Griffin)
 
 ---
 💻 As a software developer, I'm passionate about pushing the boundaries of web technology. Currently, I'm immersed in the world of web performance, front-end animations, and exploring the basics of WebGL/3D.
