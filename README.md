@@ -1,8 +1,8 @@
 ### Hey there, I'm Darren 👋
+
 ##### Interested to work with me or just want to get to know me better? Well, here's what you should know first!
 
-[<img height="64px" src="https://github.com/mrdarrengriffin/mrdarrengriffin/assets/6920899/34a2e49f-0137-4ba4-b632-156991784c18">](https://ukdevawards.co.uk/2024-shortlist/#:~:text=Darren%20Griffin)
-
+[<img height="80px" src="https://github.com/mrdarrengriffin/mrdarrengriffin/assets/6920899/9c798c30-2007-47e7-ad0c-e0ce3e3d916b">](https://ukdevawards.co.uk/2024-winners/#:~:text=WINNER%202024-,Darren%20Griffin,-%E2%80%94%20StrategiQ)
 ---
 💻 As a software developer, I'm passionate about pushing the boundaries of web technology. Currently, I'm immersed in the world of web performance, front-end animations, and exploring the basics of WebGL/3D.
 
