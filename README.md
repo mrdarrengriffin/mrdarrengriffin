@@ -2,7 +2,7 @@
 
 ##### Interested to work with me or just want to get to know me better? Well, here's what you should know first!
 
-[<img height="80px" src="https://github.com/mrdarrengriffin/mrdarrengriffin/assets/6920899/9c798c30-2007-47e7-ad0c-e0ce3e3d916b">](https://ukdevawards.co.uk/2024-winners/#:~:text=WINNER%202024-,Darren%20Griffin,-%E2%80%94%20StrategiQ)
+[<img height="80px" src="https://github.com/mrdarrengriffin/mrdarrengriffin/assets/6920899/9c798c30-2007-47e7-ad0c-e0ce3e3d916b">](https://www.linkedin.com/posts/strategiq_uk-dev-awards-activity-7166480396157726721-Yttq)
 ---
 💻 As a software developer, I'm passionate about pushing the boundaries of web technology. Currently, I'm immersed in the world of web performance, front-end animations, and exploring the basics of WebGL/3D.
 
